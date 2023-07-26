@@ -12,7 +12,7 @@
 ## Output "report.txt": 
 
 <p align="center">
-<img width="400" src="https://github.com/matthewantonis-georgiancollege/Python_COMP1112/assets/122380719/6e8a4779-a5e3-4d3b-bf68-4c45b37fa080">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Python_COMP1112/assets/122380719/6e8a4779-a5e3-4d3b-bf68-4c45b37fa080">
 <p/>
   
 ## Notes: 
