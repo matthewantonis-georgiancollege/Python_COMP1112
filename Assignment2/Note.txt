@@ -1,0 +1,4 @@
+Just moved the Docx files your script made to its own folder. The purpose was to organize it better. 
+
+Matthew Antonis
+200373088
