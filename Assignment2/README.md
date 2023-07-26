@@ -1,4 +1,4 @@
-# Assignment #1: Word Counter
+# Assignment #2: Invoice Processor
 
 ## Instructions: 
 - The file makedocs.py holds a script that will create a set of randomized invoices in the form of Word documents when run.
@@ -15,7 +15,6 @@
 <p align="center">
 <img width="200" src="https://github.com/matthewantonis-georgiancollege/Python_COMP1112/assets/122380719/de324f4d-f679-4282-b9e2-35f05c8b6dd0">
 <p/>
-
 
 ## "A2_Ex.xslx": 
 - Contains an example spreadsheet provided by the instructor. Below is what it looks like...
