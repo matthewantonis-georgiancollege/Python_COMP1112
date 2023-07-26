@@ -13,7 +13,7 @@
 - Contains the Randomized Individual Invoices from "makedocs.py". Below is an example...
 
 <p align="center">
-<img width="400" src="https://github.com/matthewantonis-georgiancollege/Python_COMP1112/assets/122380719/de324f4d-f679-4282-b9e2-35f05c8b6dd0">
+<img width="300" src="https://github.com/matthewantonis-georgiancollege/Python_COMP1112/assets/122380719/de324f4d-f679-4282-b9e2-35f05c8b6dd0">
 <p/>
 
 
