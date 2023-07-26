@@ -3,7 +3,6 @@
 ## Instructions: 
 - The file makedocs.py holds a script that will create a set of randomized invoices in the form of Word documents when run.
 - Your task is to create a Python script that processes all docx files created into an Excel spreadsheet that has a row for each invoice and columns for Invoice ID, total number of products purchased, subtotal, tax, and total.
-- The file A2_Ex.xslx contains an example spreadsheet.
 
 ## Approved Libraries: 
 - os
